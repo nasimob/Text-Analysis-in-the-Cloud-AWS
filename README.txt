@@ -1,4 +1,4 @@
-nasim obaid 207661638
+nasim obaid 
 ami: ami-0cff7528ff583bf9a
 Instance type: T2_MICRO
 How to run the application?
